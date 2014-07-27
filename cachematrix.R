@@ -3,6 +3,8 @@
 
 ## Write a short comment describing this function
 
+## quick test change to make sure git commits are correct.
+
 makeCacheMatrix <- function(x = matrix()) {
 
 }
